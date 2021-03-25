@@ -6,4 +6,4 @@
 	url = https://github.com.cnpmjs.org/google/googletest.git
 [submodule "third_party/libFuzzer"]
 	path = third_party/libFuzzer
-	url = https://chromium.googlesource.com/chromium/llvm-project/llvm/lib/Fuzzer
+	url = https://source.codeaurora.org/quic/chrome4sdp/chromium/llvm-project/llvm/lib/Fuzzer
